@@ -162,7 +162,7 @@ plt.show()
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone [https://github.com/yourusername/tmdb-movie-analysis.git](https://github.com/Abdulwaashim/TMDB_dataset_analysis_using_Python)
+   git clone https://github.com/Abdulwaashim/TMDB_dataset_analysis_using_Python
    ```
 2. Install dependencies:
    ```sh
